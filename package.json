@@ -2,7 +2,7 @@
   "name": "myprofile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/princepatel157/myProfile",
+  "homepage": "https://princepatel157.github.io/myProfile/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
