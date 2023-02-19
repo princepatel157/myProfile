@@ -1,0 +1,34 @@
+
+
+.skills-sec{
+  width: 80%;
+  position: relative;
+  float: right;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 20px 20px;
+}
+
+.skill-details{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+ul li{
+  padding: 5px 0px;
+}
+
+
+
+/* media query */
+@media only screen and (max-width: 1024px) {
+  .skills-sec{
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .skills-sec{
+    height: 100vh;
+  }
+}
