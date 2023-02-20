@@ -53,9 +53,7 @@ const Resume = () => {
           <h3>Personal Portfolio- REACT</h3>
             <span>Jan, 2023</span>
             <ul className='project-list'>
-              <li>Freelance Project</li>
-              <li>Used Hooks, Google Fonts, Material UI, Bootstrap.</li>
-              <li>Add to Cart Page with checkout functionality</li>
+              <li>Made using REACT framework</li>
             </ul>
           </div>
           <div className='ex-details'>
