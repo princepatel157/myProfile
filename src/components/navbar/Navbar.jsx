@@ -54,10 +54,10 @@ const Navbar = () => {
                   <span className='link-name'>Skills</span>
                 </Link>
               </li>
-              <li className='nav-links' id='resume'>
-                <Link to="#resume">
+              <li className='nav-links' id='experience'>
+                <Link to="#expSection">
                   <span className='icon'><DescriptionIcon/></span>
-                  <span className='link-name'>Resume</span>
+                  <span className='link-name'>Experience</span>
                 </Link>
               </li>
             </ul>
