@@ -11,6 +11,21 @@ const Resume = () => {
             <span>Word Experience</span>
           </div>
           <div className='ex-details'>
+            <h3>Freelancer - MERN Stack</h3>
+            <span>Aug 2022 - current</span>
+            <ul className='freelance'>
+              <li>Projects- <br/>
+                  <a target='_blank' rel='noreferrer' href='http://www.ashihelmet.com/'>Ashi Helmets</a><br/>
+                  <a target='_blank' rel='noreferrer' href='http://www.nanadairyfarming.com/'>Nana Dairy Farming</a><br/>
+                  <span>Rave- Blog WebPage  (in development)</span><br/>
+              </li>
+              <li>Worked on MERN full stack website development.</li>
+              <li>In a collaboration with the freelancing team.</li>
+              <li>Experienced in development and deployment.</li>
+              <li>Skills used- MYSQL, EXPRESS, REACT, NODE, GIT</li>
+            </ul>
+          </div>
+          <div className='ex-details'>
             <h3>Node js Intern- Jungleworks Pvt. Ltd</h3>
             <span>Jan 2022 - Aug 2022</span>
             <ul>
@@ -25,21 +40,6 @@ const Resume = () => {
                   Open API’s etc.
               </li>
               <li>Also worked on multiple projects when required.</li>
-            </ul>
-          </div>
-          <div className='ex-details'>
-            <h3>Freelancer - MERN Stack</h3>
-            <span>Aug 2022 - current</span>
-            <ul className='freelance'>
-              <li>Projects- <br/>
-                  <a target='_blank' rel='noreferrer' href='http://www.ashihelmet.com/'>Ashi Helmets</a><br/>
-                  <a target='_blank' rel='noreferrer' href='http://www.nanadairyfarming.com/'>Nana Dairy Farming</a><br/>
-                  <span>Rave- Blog WebPage  (in development)</span><br/>
-              </li>
-              <li>Worked on MERN full stack website development.</li>
-              <li>In a collaboration with the freelancing team.</li>
-              <li>Experienced in development and deployment.</li>
-              <li>Skills used- MYSQL, EXPRESS, REACT, NODE, GIT</li>
             </ul>
           </div>
         </section>

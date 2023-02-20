@@ -25,9 +25,9 @@ const Navbar = () => {
           </div>
           <div className='social-sec'>
             <ul>
-              <li className='links'><a href="https://www.instagram.com/prince.vikram.singh.patel/" target='_blank' rel='noreferrer'><InstagramIcon className="icon"/> </a></li>
-              <li className='links'><a href="https://www.linkedin.com/in/prince-patel-bb6b32194/" target='_blank' rel='noreferrer'><LinkedInIcon/> </a></li>
               <li className='links'><a href="https://github.com/princepatel157" target='_blank' rel='noreferrer'><GitHubIcon/> </a></li>
+              <li className='links'><a href="https://www.linkedin.com/in/prince-patel-bb6b32194/" target='_blank' rel='noreferrer'><LinkedInIcon/> </a></li>
+              <li className='links'><a href="https://www.instagram.com/prince.vikram.singh.patel/" target='_blank' rel='noreferrer'><InstagramIcon className="icon"/> </a></li>
             </ul>
           </div>
         </section>
