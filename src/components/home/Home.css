@@ -6,10 +6,12 @@
   position: relative;
   float: right;
   padding-left: 20px;
-  /* background-color: grey; */
+  color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-image: url("../../assets/head.jpg");
+  
 }
 
 .intro-sec h1{
